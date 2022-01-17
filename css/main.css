@@ -955,9 +955,13 @@ a {
 }
 .our-skills h3 span {
   border: 1px solid #ccc;
-  padding: 2px;
-  border-radius: 5px;
+  padding: 3px;
   color: var(--main-color);
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
 }
 .our-skills .progress {
   height: 30px;
